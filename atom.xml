@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yechengzhi.cn</id>
-    <title>🍊</title>
-    <updated>2020-01-19T20:02:41.568Z</updated>
+    <title>。</title>
+    <updated>2020-01-19T20:03:27.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yechengzhi.cn"/>
     <link rel="self" href="https://yechengzhi.cn/atom.xml"/>
     <subtitle>test</subtitle>
     <logo>https://yechengzhi.cn/images/avatar.png</logo>
     <icon>https://yechengzhi.cn/favicon.ico</icon>
-    <rights>All rights reserved 2020, 🍊</rights>
+    <rights>All rights reserved 2020, 。</rights>
     <entry>
         <title type="html"><![CDATA[test叶成志的网站试试试试试试]]></title>
         <id>https://yechengzhi.cn/post/test-xie-cheng-zhi-de-wang-zhan-shi-shi-shi-shi-shi-shi</id>
