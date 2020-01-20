@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yechengzhi.cn</id>
     <title>。</title>
-    <updated>2020-01-20T08:18:49.981Z</updated>
+    <updated>2020-01-20T08:21:23.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yechengzhi.cn"/>
     <link rel="self" href="https://yechengzhi.cn/atom.xml"/>
@@ -11,14 +11,18 @@
     <icon>https://yechengzhi.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 。</rights>
     <entry>
-        <title type="html"><![CDATA[😯怎么添加超链接啊啊]]></title>
+        <title type="html"><![CDATA[😯test怎么加超链接哦啊啊啊]]></title>
         <id>https://yechengzhi.cn/post/zen-me-tian-jia-chao-lian-jie-a-a</id>
         <link href="https://yechengzhi.cn/post/zen-me-tian-jia-chao-lian-jie-a-a">
         </link>
         <updated>2020-01-20T02:39:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f</p>
+        <summary type="html"><![CDATA[<p>https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f<br>
+<a href="https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f">Notion分享</a><br>
+<a href="https://weibo.com/2277577962/">YeChengzhi‘s Weibo</a></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f</p>
+        <content type="html"><![CDATA[<p>https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f<br>
+<a href="https://www.notion.so/ycz1996/6af5567ed2f746f8b3efe201d2683c9f">Notion分享</a><br>
+<a href="https://weibo.com/2277577962/">YeChengzhi‘s Weibo</a></p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://yechengzhi.cn/post-images/1579488193301.jpg" alt="" loading="lazy"></figure>
 ]]></content>
